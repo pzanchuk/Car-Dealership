@@ -1,6 +1,6 @@
 # _Car Dealership_
 
-#### _Car Dealership 2/11/2019_
+#### _2/11/2019_
 
 #### By _**Pavel Zanchuk**_
 
